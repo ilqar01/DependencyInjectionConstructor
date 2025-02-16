@@ -1,0 +1,8 @@
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\bin\Debug\DependencyInjectionConstructor.exe.config
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\bin\Debug\DependencyInjectionConstructor.exe
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\bin\Debug\DependencyInjectionConstructor.pdb
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\obj\Debug\DependencyInjectionConstructor.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\obj\Debug\DependencyInjectionConstructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\obj\Debug\DependencyInjectionConstructor.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\obj\Debug\DependencyInjectionConstructor.exe
+C:\Users\acer\source\repos\ForGithub01\DependencyInjectionConstructor\obj\Debug\DependencyInjectionConstructor.pdb
